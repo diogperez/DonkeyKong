@@ -1,6 +1,7 @@
 Ranking : Nome : Tempo
 1 : Cristiano Ronaldo : 7
-2 : Pedro : 66
-3 : Diogo : 73
-4 : Luis : 87
-5 : João : 97
+2 : John : 48
+3 : Pedro : 66
+4 : Diogo : 73
+5 : Luis : 87
+6 : João : 97
